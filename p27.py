@@ -1,2 +1,4 @@
-for i in range(1, 6):
-    print("*" * i)
+def disp():
+    return "hello"
+
+#display.py should be filename.
